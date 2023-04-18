@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blockchain funding project**
 
-- 🌱 I’m currently learning **next.js, remix.js**
+- 🌱 I’m currently learning **solidity, blockchain and hardhat**
 
 - 👨‍💻 All of my projects are available at [https://platanus.studio](https://platanus.studio)
 
